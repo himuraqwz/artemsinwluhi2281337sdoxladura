@@ -10,11 +10,6 @@ using std::endl;
 using std::function;
 using std::cin;
 
-int main() {
-	setlocale(LC_ALL, "RU");
-
-	int res = 10;
-	cout << res;
-
-	return 0;
+void print() {
+	cout << "Forum";
 }
